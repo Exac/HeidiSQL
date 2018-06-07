@@ -4682,7 +4682,7 @@ msgstr "rows total"
 
 #: main.pas:4439
 msgid "approximately"
-msgstr "approximately"
+msgstr "approx"
 
 #: main.pas:4439
 msgid "limited to"
